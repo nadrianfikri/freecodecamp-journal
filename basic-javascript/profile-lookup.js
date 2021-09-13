@@ -50,7 +50,7 @@ function lookUpProfile(name, prop) {
     }
   }
 }
-console.log(lookUpProfile('Akira', 'address'));
+console.log(lookUpProfile('Akira', 'likes'));
 
 // lookUpProfile("Kristian", "lastName") //should return the string Vos
 
